@@ -1,7 +1,4 @@
 # Car-Evaluator-Predictor
-Construction of a Random Forest model with 99.8% of Accuracy.
-
-# Car-Evaluator-Predictor
 ## (code file: Car Evaluation - 99.8% Accuracy Random Forest.ipynb)
 ### Description of the construction of a Random Forest model with 99.8% of accuracy using a car acceptability classification dataset.<br>
 Code in **Python 3**.<br>
