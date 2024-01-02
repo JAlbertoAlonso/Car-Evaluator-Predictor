@@ -10,8 +10,14 @@ Notebook format.<br>
 Free licence on data.<br>
 **Finished project**<br><br>
 [Description]
-- Exploratory Data Analysis of the transactions dataset data throughout the period from January 2023 to June 2023.<br>
-- Use of the Logistic Regression model to obtain the best fit in the data modeling using an Imbalancing techique on the data.<br>
+- Exploratory Data Analysis of the transactions dataset data.<br>
+- Describe which are the features of the best and the worst car in the market according to the users.<br>
+- Perform an analysis of the characteristics that will adjust the model.<br>
+- Perform an oversampling to balance the data set.<br>
+- Create and train a Random Forest model, seeking to fine-tune its hyperparameters as much as possible using a Cross Validation search mesh.<br>
+- Obtain predictions from the model with the adjusted hyperparameters.<br>
+- Perform the metrics regard to the model created.<br>
+- Draw conclusions regarding the entire process.<br>
 <br>
 [Libraries]<br>
 - Numpy<br>
